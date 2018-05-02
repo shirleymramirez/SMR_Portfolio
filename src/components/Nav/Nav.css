@@ -1,0 +1,11 @@
+.brand-logo {
+    margin-left: 130px;
+}
+
+#nav-mobile {
+    margin-right: 130px;
+}
+
+a:hover {
+    color: green;
+}

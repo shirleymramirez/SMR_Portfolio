@@ -1,0 +1,14 @@
+#myCarousel,
+.carousel slide {
+    background-color: rgb(240, 170, 185);
+    height: 600px;
+    width: 100%;
+}
+
+.item {
+    width: 100%;
+}
+
+.carousel-font {
+    color: white;
+}
