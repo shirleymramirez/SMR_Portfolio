@@ -1,3 +1,2 @@
 # SMR_Portfolio
-myFirstPersonal_Project_Using_AngularJs-reactjs
 
