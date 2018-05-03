@@ -1,25 +1,18 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./Nav.css";
 
 const Nav = () =>
   <nav>
-    <div class="nav-wrapper">
-      <a href="#" class="brand-logo">
+    <div className="nav-wrapper">
+      <a href="#" className="brand-logo">
         Shirley Ramirez
       </a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li>
-          <a href="Home.html">HOME</a>
-        </li>
-        <li>
-          <a href="About.html">ABOUT</a>
-        </li>
-        <li>
-          <a href="Portfolio.html">PORTFOLIO</a>
-        </li>
-        <li>
-          <a href="Contact.html">CONTACT ME</a>
-        </li>
+      <ul id="nav-mobile" className="right hide-on-med-and-down">
+        <li><a><Link to="/">HOME</Link></a></li>
+        <li><a><Link to="/About">ABOUT</Link></a></li>
+        <li><a><Link to="/Portfolio">PORTFOLIO</Link></a></li>
+        <li><a><Link to="/Contact">CONTACT ME</Link></a></li>
       </ul>
     </div>
   </nav>;
