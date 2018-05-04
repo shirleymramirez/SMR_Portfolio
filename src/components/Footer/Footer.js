@@ -8,12 +8,12 @@ const Footer = () => {
             © 2018 Copyright Shirley Ramirez
             <a className="grey-text text-lighten-4 right" href="https://www.linkedin.com/in/shirley-ramirez/" target="_blank" rel="noopener noreferrer">
               <i className="Small material-icons">
-                <img src={require("../../images/linkedln.png")} alt="Linkedln-icon" />
+                <img className="link-icon" src={require("../../images/linkedln.png")} alt="Linkedln-icon" />
               </i>
             </a>
             <a className="grey-text text-lighten-4 right" href="https://github.com/shirleymramirez" target="_blank" rel="noopener noreferrer">
               <i className="Small material-icons">
-                <img src={require("../../images/github.png")} alt="Github-icon" />
+                <img className="link-icon" src={require("../../images/github.png")} alt="Github-icon" />
               </i>
             </a>
           </div>

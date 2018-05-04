@@ -31,7 +31,7 @@ const Portfolio = () =>
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Sport-Team-Scheduler-App
+                Click me to see working app
               </a>
             </p>
           </div>
@@ -83,7 +83,7 @@ const Portfolio = () =>
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Scraped-that-News-App
+                Click me to see working app
               </a>
             </p>
           </div>
@@ -130,7 +130,7 @@ const Portfolio = () =>
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Customer-ticketing-App
+                Click me to see working app
               </a>
             </p>
           </div>
@@ -177,7 +177,7 @@ const Portfolio = () =>
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Eat-da-Burger
+                Click me to see working app
               </a>
             </p>
           </div>
@@ -222,7 +222,7 @@ const Portfolio = () =>
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                liri-node-app
+                Click me to see working app
               </a>
             </p>
           </div>
@@ -271,7 +271,7 @@ const Portfolio = () =>
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                FriendFinder
+                Click me to see working app
               </a>
             </p>
           </div>

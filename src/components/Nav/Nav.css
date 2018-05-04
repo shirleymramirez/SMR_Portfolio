@@ -1,11 +1,31 @@
-.brand-logo {
-    margin-left: 130px;
-}
-
-#nav-mobile {
-    margin-right: 130px;
-}
-
 a:hover {
     color: green;
+}
+
+body {
+    height: 100%;
+}
+
+.pin-top {
+    position: relative;
+}
+
+.pin-bottom {
+    position: relative;
+}
+
+.pinned {
+    position: fixed !important;
+}
+
+.block {
+    height: 100%;
+}
+
+.divider {
+    height: 50px;
+}
+
+.pushpin-demo-nav {
+    top: 0px;
 }
