@@ -1,5 +1,4 @@
 import React from "react";
-// import Slider from "react-slick";
 import { Parallax } from "react-materialize";
 import "./SimpleSlider.css";
 
