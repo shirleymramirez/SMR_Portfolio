@@ -1,3 +1,11 @@
+#logo-navbar {
+    padding-left: 50px;
+}
+
+.link-navbar {
+    padding-right: 50px;
+}
+
 a:hover {
     color: green;
 }
