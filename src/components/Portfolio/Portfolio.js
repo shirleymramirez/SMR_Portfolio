@@ -4,12 +4,6 @@ import "./Portfolio.css";
 const Portfolio = () =>
   <div className="container">
     <div className="row">
-      <h1>
-        <u>Portfolio</u>
-      </h1>
-    </div>
-
-    <div className="row">
       <div className="col s4 m4">
         <div className="card">
           <div className="card-image waves-effect waves-block waves-light">
