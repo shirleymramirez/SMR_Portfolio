@@ -25,7 +25,6 @@ function SamplePrevArrow(props) {
 }
 
 
-
 class SimpleSlider extends React.Component {
   render() {
     var settings = { 

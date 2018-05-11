@@ -1,8 +1,8 @@
 .connect-me {
     height: 600px;
-    width: 1200px;
     text-align: center;
     background-color: rgb(247, 231, 231);
+    width: auto;
 }
 
 .connect-me-at {
