@@ -13,7 +13,9 @@
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test --env=jsdom",
-        "eject": "react-scripts eject"
+        "eject": "react-scripts eject",
+        "installDeps": "yarn && cd client && yarn",
+        "heroku-postbuild": "yarn installDeps && yarn build"
     },
     "homepage": "http://shirleymramirez.github.io/SMR_Portfolio"
 }
