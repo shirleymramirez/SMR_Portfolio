@@ -19,7 +19,7 @@
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build"
     },
-    "homepage": "http://shirleymramirez.github.io/SMR_Portfolio",
+    "homepage": "https://shirleymramirez.github.io/SMR_Portfolio",
     "devDependencies": {
         "gh-pages": "^1.1.0"
     }
