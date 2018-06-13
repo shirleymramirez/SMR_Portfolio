@@ -75,7 +75,7 @@ const SimpleSlider = () =>
     <div className="section white">
       <div className="row container">
         <p className="grey-text text-darken-3 lighten-3">
-          Check out my Portfolio for some of the list of my project from bootstrap, node, jquery to full stack web application using M.E.R.N (Mongodb, Express, React and Node) method.
+          Check out my Portfolio for some of the list of my project from bootstrap, node, jquery to full stack web application using M.E.R.N (Mongodb, Express, React and Node).
         </p>
       </div>
     </div>
