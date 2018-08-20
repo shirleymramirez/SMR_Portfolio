@@ -1,21 +1,23 @@
-import React, { Component } from 'react';
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import React, { Component } from "react";
+import { Switch, Route, HashRouter } from "react-router-dom";
 import Home from "./pages/Home/Home";
 import Portfolio from "./pages/Portfolio/Portfolio";
 import Contact from "./pages/Contact/Contact";
-import './App.css';
+import "./App.css";
 
 class App extends Component {
-  render () {
-    return <div className="App">
-        <Router>
-          <div>
+  render() {
+    return (
+      <div className="App">
+        <HashRouter>
+          <Switch>
             <Route exact path="/" component={Home} />
             <Route exact path="/Portfolio" component={Portfolio} />
             <Route exact path="/Contact" component={Contact} />
-          </div>
-        </Router>
-      </div>;
+          </Switch>
+        </HashRouter>
+      </div>
+    );
   }
 }
 export default App;
